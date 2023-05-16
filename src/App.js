@@ -9,6 +9,7 @@ function App() {
       <p>Added this line to test ci cd pipeline</p>
       <p>Added this line to test ci cd pipeline</p>
       <p>Added this line to test ci cd pipeline</p>
+      <h3>New changes added</h3>
     </div>
   );
 }
